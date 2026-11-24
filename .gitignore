@@ -1,0 +1,13 @@
+# Planning notes and local preview renders. Do not publish these
+# with the public .github/profile repo.
+SUGGESTED-ORG-SETTINGS.md
+preview/
+
+# OS / editor / caches
+.DS_Store
+.idea/
+.vscode/
+*.swp
+.cache/
+venv/
+.venv/
